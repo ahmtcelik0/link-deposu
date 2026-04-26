@@ -1,27 +1,122 @@
 # link-deposu
 
 ## Bakanlıklar ve Devlet Kurumları
-
 + [BDDK (Bankacılık Düzenleme ve Denetleme Kurumu)](https://www.bddk.org.tr)
     - [BDDK Aylık Bülten](https://www.bddk.org.tr/Veri/Detay/159)
++ [Bilgi Teknolojileri ve İletişim Kurumu](https://internet.btk.gov.tr/istatistikler)
 + [Borsa İstanbul](https://www.borsaistanbul.com/)
-    -[Veriler](https://www.borsaistanbul.com/veriler)
-    -[Datastore](https://datastore.borsaistanbul.com/)
+    - [Veriler](https://www.borsaistanbul.com/veriler)
+    - [Datastore](https://www.datastore.borsaistanbul.com/)
 + [Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı](https://www.sbb.gov.tr/)
     - [Ekonomik Göstergeler](https://www.sbb.gov.tr/temel-ekonomik-gostergeler/)
-
-
-
++ [TÜBİTAK(Ulakbim)](https://www.ulakbim.tubitak.gov.tr/)
+    - [Veri Portalı](https://www.veri.ulakbim.gov.tr/hizmetler)
+    - [Türkiye Akademik Arşivi(Harman)](https://www.harman.ulakbim.gov.tr/)
++ [Meteoroloji Genel Müdürlüğü - İstatistikler](https://www.mgm.gov.tr/)
+    - [Resmi İklim İstatistikleri](https://www.mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx)
++ [Radyo ve Televizyon Üst Kurulu (RTÜK)](https://www.rtuk.gov.tr/)
+    - [Faaliyet Raporları](https://www.rtuk.gov.tr/yillik-faaliyet-raporlari/3738)
++ [Rekabet Kurumu](https://www.rekabet.gov.tr)
+    - [Karar İstatistikleri](https://www.rekabet.gov.tr/tr/Sayfa/Yayinlar/karar-istatistikleri)
++ [Sermaye Piyasa Kurulu (SPK) - İstatistikler](https://www.spk.gov.tr/)
+    - [İstatistikler]((https://www.spk.gov.tr/istatistikler/istatistiksel-veriler))
++ [Sosyal Güvenlik Kurumu (SGK)](https://www.sgk.gov.tr/)
+    - [Veri Uygulaması](https://www.net.sgk.gov.tr/SgkVeriV2/)
++ [T.C. Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/)
+    - [Faaliyet Raporları](https://www.aile.gov.tr/raporlar/yillik-faaliyet-raporlari/)
+    - [İstatistikler](https://www.aile.gov.tr/sgbd/istatistik-sayfalari/aylik-istatistik-bulteni/)
++ [T.C. Adalet Bakanlığı](https://www.adalet.gov.tr/)
+    - [UYAP Bilişim Sistemi](https://istatistikler.uyap.gov.tr/)
+    - [Faaliyet Raporları](https://www.adalet.gov.tr/faaliyet-raporlari)
+    - [Adli Sicil ve İstatistik Genel Müdürlüğü](https://adlisicil.adalet.gov.tr/Home/SayfaDetay/
++ [T.C. Çalışma ve Sosyal Güvenlik Bakanlığı](https://www.csgb.gov.tr/)
++ [T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı](https://www.csb.gov.tr/)
+    - **Çok fazla var**
++ [T.C. Dışişleri Bakanlığı](https://www.mfa.gov.tr/default.tr.mfa)
++ [T.C.Enerji Piyasası Düzenleme Kurumu (EPDK)](https://www.epdk.gov.tr/)
+    - [Sektör raporları](https://www.epdk.gov.tr/Detay/Icerik/3-0-24/raporlar)
++ [T.C. Enerji ve Tabii Kaynaklar Bakanlığı](https://www.enerji.gov.tr/)
++ [T.C Gençlik ve Spor Bakanlığı](https://gsb.gov.tr/tr)
+    - [Faaliyet Raporları](https://sgb.gsb.gov.tr/Sayfalar/3765/3396/faaliyet-raporlari.aspx)
++ [T.C. Hazine ve Maliye Bakanlığı](https://www.hmb.gov.tr/)
+    - [Faaliyet Raporları](https://www.hmb.gov.tr/faaliyet-raporu)
+    - [İstatistikler](https://www.hmb.gov.tr/kamu-finansmani-istatistikleri)
++ [T.C. İçişleri Bakanlığı](https://www.icisleri.gov.tr/)
+    - [Emniyet Genel Müdürlüğü](https://www.egm.gov.tr/strateji/strateji-faaliyetleri)
+    - [Jandarma Genel Komutanlığı](https://www.jandarma.gov.tr/gymy-tablolar)
+    - [Sahil Güvenlik Komutanlığı](https://www.sg.gov.tr/yayinlar)
+    - [Göç İdaresi Başkanlığı](https://www.goc.gov.tr/istatistikler)
+    - [Afet ve Acil Durum Yönetimi Başkanlığı (AFAD)](https://www.afad.gov.tr/kurumsal-raporlar)
+    - [Sivil Toplumla İlişkiler Genel Müdürlüğü](https://www.siviltoplum.gov.tr/denetim-istatistikleri)
++ [T.C. Kültür Turizm Bakanlığı](https://www.ktb.gov.tr/)
+    - [Yatırım ve İşletmeler Genel Müdürlüğü](https://www.yigm.ktb.gov.tr/)
+        -[Turizm İstatistikleri](https://www.yigm.ktb.gov.tr/)
++ [T.C. Milli Eğitim Bakanlığı](https://www.meb.gov.tr/)
+    - [İstatistikler](https://sgb.meb.gov.tr/)
++ [T.C. Milli Savunma Bakanlığı](https://www.msb.gov.tr/)
+    - **Çok fazla var**
+    - [Harita Genel Müdürlüğü](https://www.harita.gov.tr/)
+        - [Atlas](https://www.atlas.harita.gov.tr/)
+        - [Jeodezik Ağlar](https://www.harita.gov.tr/public/sunum/)
+        - [Dünya Teşkilatlar Atlası](https://dta.harita.gov.tr/)
+        - [Ülke Haritaları ve Başkentleri](https://www.harita.gov.tr/ulke-baskentleri)
+        - [İl ve İlçe Yüzölçümleri](https://www.harita.gov.tr/il-ve-ilce-yuzolcumleri)
+        - [Türkiye Ulusal Hız Alanı Sorgulama](https://turefhizalani.harita.gov.tr/)
+        - [Türkiye Ulusal Deniz Seviyesi İzleme Sistemi](https://tudes.harita.gov.tr/)
+        - [Astronomik Almanak](https://www.harita.gov.tr/almanak/almanac_tr.html)
++ [T.C. Sağlık Bakanlığı](https://www.saglik.gov.tr/)
+    - [İstatistikler](https://www.saglik.gov.tr/TR-11584/istatistikler-ve-yayinlar.html)
+    - [Veri Portalı](https://www.acikveri.saglik.gov.tr/)
+    - [Sağlık Bilgi Sistemleri Genel Müdürlüğü](https://sbsgm.saglik.gov.tr/)
++ [T.C Sanayi ve Teknoloji Bakanlığı](https://www.sanayi.gov.tr/)
+    - [İstatistiki Bilgiler](https://www.sanayi.gov.tr/istatistikler/istatistiki-bilgiler)
+    - [Lonca](https://lonca.gov.tr/)
+    - [Kalkınma Kütüphanesi](https://www.kalkinmakutuphanesi.gov.tr/)
+    - [Türkiye'de Kentsel ve Kırsal Yerleşim Sistemleri Araştırma Projesi](https://yersis.gov.tr/web)
++ [T.C. Tarım ve Orman Bakanlığı](https://www.tarimorman.gov.tr/)
++ [T.C. Ticaret Bakanlığı](https://ticaret.gov.tr/)
+    - [İstatistikler](https://ticaret.gov.tr/istatistikler)
++ [T.C.Ulaştırma ve Altyapı Bakanlığı](https://www.uab.gov.tr/)
+    - [İstatistikler](https://www.uab.gov.tr/bilgi-merkezi/istatistikler/)
++ [T.C. Yüksek Seçim Kurulu](https://www.ysk.gov.tr/)
+    - [Açık Veri Portalı](https://www.acikveri.ysk.gov.tr/anasayfa)
++ [Türkiye Bankalar Birliği](https://www.tbb.org.tr/)
+    - [İstatistikler](https://www.tbb.org.tr/banka-ve-sektor-bilgileri/istatistiki-raporlar)
+    - [Veri Sistemi](https://www.verisistemi.tbb.org.tr/)
++ [Türkiye Cumhuriyet Merkez Bankası(TCMB)](https://www.tcmb.gov.tr/)
+    -[Raporlar](https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Yayinlar/Raporlar)
+    -[Elektronik Veri Dağıtım Sistem(EVDS)](https://www.evds3.tcmb.gov.tr/)
++ [Türkiye İstatistik Kurumu (TÜİK)](https://www.tuik.gov.tr/)
+    - [BİRUNİ Merkezi Dağıtım Sistemi](https://www.biruni.tuik.gov.tr/medas/)
+    - [Coğrafi İstatistik Portalı](https://www.cip.tuik.gov.tr/)
+    - [Veri Portalı](https://www.veriportali.tuik.gov.tr/)
+    - [Nüfus İstatistikleri Portalı](https://www.nip.tuik.gov.tr/)
+    - [Sınıflama Sunucusu](https://www.siniflama.tuik.gov.tr/)
+    - [Sürdürülebilir Kalkınma Amaçları](https://www.sdg.tuik.gov.tr/)
+    - [Resmi İstatistik Portalı](https://www.resmiistatistik.gov.tr/)
++ [Türkiye İş Kurumu (İŞKUR)](https://www.iskur.gov.tr/)
+    - [İstatistikler](https://www.iskur.gov.tr/kurumsal/istatistikler/)
++ [Türk Patent Kurumu](https://www.turkpatent.gov.tr/)
++ [Türkiye Sigortalar Birliği](https://www.tsb.org.tr/)
++ [Türkiye Ulusal Coğrafi Bilgi Sistemi](https://www.tucbs.gov.tr/)
++ [Türkiye Varlık Fonu](https://www.tvf.com.tr/yatirimci-iliskileri/raporlar)
++ [Yükseköğretim Kurulu (YÖK)](https://www.yokatlas.yok.gov.tr/)
+    - [Yükseköğretim Bilgi Yönetim Sistemi](https://www.istatistik.yok.gov.tr/)
+    - [Tez Merkezi](https://www.tez.yok.gov.tr/UlusalTezMerkezi/)
 
 ## Belediyeler
-
++ [Türkiye Belediyeler Birliği](https://www.tbb.gov.tr/)
+    - [Faaliyet Raporları](https://www.tbb.gov.tr/tr/faaliyet-raporu)
++ [Ulusal Akıllı Şehir Açık Veri Platformu](https://ulasav.csb.gov.tr/)
 
 ## Sivil Toplum Kuruluşları
 
+## Özel Kurum ve Şirketler
 
 ## Üniversiteler
-
-
-
++ [İTÜ - Türkçe NLP Veri Setleri](http://tools.nlp.itu.edu.tr/Datasets)
++ [YTÜ KEMİK - NLP Kaynakları](http://www.kemik.yildiz.edu.tr/)
 
 ## Uluslararası Kurumlar
+
+
